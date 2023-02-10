@@ -1,0 +1,2 @@
+# Daily-Blog
+EJS Challenge
